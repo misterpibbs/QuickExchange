@@ -38,7 +38,7 @@ $discbox = [System.Windows.MessageBox]::Show('Click Ok to disconnect your sessio
 
    remove-pssession $sesh
 
-   Write-Host "All done!!"
+   Write-Host "All done and squeaky clean!!"
 
    }
    }
