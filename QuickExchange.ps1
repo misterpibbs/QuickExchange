@@ -24,7 +24,7 @@ write-host -BackgroundColor Red -ForegroundColor white "Uh oh...looks like the c
 }
 }
 
-Write-Host "You're in...."
+Write-Host "You're in....(queue movie hacker scene)"
 
 ## The next section provides a GUI box for quick disconnect and removal of session afterwards
 
