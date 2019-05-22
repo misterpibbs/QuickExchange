@@ -2,8 +2,6 @@
 
 A super simple script to quickly automate the connection between your local machine and the on premises exchange server via Powershell. 
 
-Ends with a popup for one click session cleanup.
-
 ## Getting Started
 
 Simply clone this repository and run the script from folder using .\QuickExchange
